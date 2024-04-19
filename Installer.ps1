@@ -57,11 +57,10 @@ $redBeltFileUrl = @(
     "https://drive.google.com/uc?export=download&id=1-xUzUYd0Ug_8V53moRrnwfhwwx3dZRfx"
 )
 $purpleBeltFileUrl = @(
-    "https://drive.google.com/uc?export=download&id=1tT3ijci6KGDHTBFGt0M8OfnRWi7rgZXh"
+    "https://drive.google.com/uc?export=download&id=1tT3ijci6KGDHTBFGt0M8OfnRWi7rgZXh", "https://drive.google.com/uc?export=download&id=1yTIdNwCVQdgou0eXfXZwDvEsZE2dYELn"
 )
 $brownBeltFileUrl = @(
-    "https://drive.google.com/uc?export=download&id=1wUDs3f2WBuqc9-VM6NYhHyyXbpDZWoJz", 
-    "https://drive.google.com/uc?export=download&id=1yTIdNwCVQdgou0eXfXZwDvEsZE2dYELn"
+    "https://drive.google.com/uc?export=download&id=1wUDs3f2WBuqc9-VM6NYhHyyXbpDZWoJz"
 )
 
 # Download files into respective folders
