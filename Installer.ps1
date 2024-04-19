@@ -47,9 +47,9 @@ function FetchFiles {
 }
 
 # Create folders for each belt guide
-$redBeltFolder = CreateFolder -FolderName "Red Belt Sensei Guide"
-$purpleBeltFolder = CreateFolder -FolderName "Purple Belt Sensei Guide"
-$brownBeltFolder = CreateFolder -FolderName "Brown Belt Sensei Guide"
+$redBeltFolder = CreateFolder -FolderName "Red Belt Ninja Guide"
+$purpleBeltFolder = CreateFolder -FolderName "Purple Belt Ninja Guide"
+$brownBeltFolder = CreateFolder -FolderName "Brown Belt Ninja Guide"
 
 # URLs for files corresponding to each belt
 $redBeltFileUrl = @(
